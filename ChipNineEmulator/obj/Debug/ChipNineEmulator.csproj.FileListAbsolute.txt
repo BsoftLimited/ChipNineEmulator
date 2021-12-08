@@ -1,0 +1,9 @@
+C:\Users\okelekele kiensue\Documents\SharpDevelop Projects\ChipNineEmulator\ChipNineEmulator\obj\Debug\ChipNineEmulator.csprojResolveAssemblyReference.cache
+C:\Users\okelekele kiensue\Documents\SharpDevelop Projects\ChipNineEmulator\ChipNineEmulator\bin\Debug\ChipNineEmulator.exe.config
+C:\Users\okelekele kiensue\Documents\SharpDevelop Projects\ChipNineEmulator\ChipNineEmulator\bin\Debug\ChipNineEmulator.exe
+C:\Users\okelekele kiensue\Documents\SharpDevelop Projects\ChipNineEmulator\ChipNineEmulator\bin\Debug\ChipNineEmulator.pdb
+C:\Users\okelekele kiensue\Documents\SharpDevelop Projects\ChipNineEmulator\ChipNineEmulator\bin\Debug\OpenTK.pdb
+C:\Users\okelekele kiensue\Documents\SharpDevelop Projects\ChipNineEmulator\ChipNineEmulator\bin\Debug\OpenTK.xml
+C:\Users\okelekele kiensue\Documents\SharpDevelop Projects\ChipNineEmulator\ChipNineEmulator\bin\Debug\OpenTK.GLControl.xml
+C:\Users\okelekele kiensue\Documents\SharpDevelop Projects\ChipNineEmulator\ChipNineEmulator\obj\Debug\ChipNineEmulator.exe
+C:\Users\okelekele kiensue\Documents\SharpDevelop Projects\ChipNineEmulator\ChipNineEmulator\obj\Debug\ChipNineEmulator.pdb
